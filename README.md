@@ -10,7 +10,7 @@ I excel in architecting scalable web applications and integrating cross-platform
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💼 Job interests: Software Engineer,Backend Engineer, Front Engineer(Intern or Junior level).
+- 💼 Job interests: Software Engineer,Backend Engineer, Frontend Engineer.
 - 📫 You can [view my resume](https://olanrewajukabiru.vercel.app/resume), [view my portfolio](https://olanrewajukabiru.vercel.app/) and contact me by emailing programmerolakay@gmail.com.
 
 
