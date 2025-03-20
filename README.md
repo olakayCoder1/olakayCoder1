@@ -1,7 +1,3 @@
-Your LinkedIn profile summary looks great! However, to make it even more impactful, here are some suggestions and revisions to consider based on your experience:
-
----
-
 # Hello there; welcome 👋🏾
 ## I'm Olanrewaju AbdulKabeer
 
