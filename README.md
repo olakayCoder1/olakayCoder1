@@ -1,42 +1,3 @@
-# Hello there; welcome 👋🏾
-## I'm Olanrewaju AbdulKabeer
-
-[![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,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&logoColor=white&link=https://altschoolafrica.com/schools/engineering)](https://altschoolafrica.com/schools/engineering)[![Linkedln Badge](https://img.shields.io/badge/?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanrewaju-abdulkabeer)](https://www.linkedin.com/in/olanrewaju-abdulkabeer) [![Twitter Badge](https://img.shields.io/badge/-@olakayCoder1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olakayCoder1)](https://twitter.com/olakayCoder1)
-
-I am a Backend Software Engineer with over 2 years of experience in Web and Backend engineering. I specialize in leading cross-functional teams and developing robust backend solutions using Python/Django, with a strong track record in creating user onboarding, identity verification, and AML software for growing user bases. My expertise extends to JavaScript frameworks like React, and I am proficient in additional technologies including Java, PostgreSQL, AWS, and DynamoDB.
-
-I excel in architecting scalable web applications and integrating cross-platform services, with a keen interest in fraud prevention, automated systems, and AI technologies. I also enjoy creating tech content, playing football, engaging in DIY AI projects, and exploring new places.
-
-**Here's a quick summary about me**:
-
-- 😊 Pronouns: He/him
-- 💼 Job interests: Software Engineer,Backend Engineer, Frontend Engineer.
-- 📫 You can [view my resume](https://olanrewajukabiru.vercel.app/resume), [view my portfolio](https://olanrewajukabiru.vercel.app/) and contact me by emailing programmerolakay@gmail.com.
-
-
-### Skills
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-</p>
-
----
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=olakayCoder1&show_icons=true&include_all_commits=true&hide_border=true" alt="Olanrewaju's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olakayCoder1&langs_count=8&layout=compact&hide_border=true" alt="Olanrewaju's GitHub stats" /> |
-| ------------- | ------------- |
-
-
-
-
 Your LinkedIn profile summary looks great! However, to make it even more impactful, here are some suggestions and revisions to consider based on your experience:
 
 ---
@@ -46,7 +7,7 @@ Your LinkedIn profile summary looks great! However, to make it even more impactf
 
 [![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,...)](https://altschoolafrica.com/schools/engineering) [![LinkedIn Badge](https://img.shields.io/badge/?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanrewaju-abdulkabeer)](https://www.linkedin.com/in/olanrewaju-abdulkabeer) [![Twitter Badge](https://img.shields.io/badge/-@olakayCoder1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olakayCoder1)](https://twitter.com/olakayCoder1)
 
-I am a **Backend Software Engineer** with over **2 years of experience** in building scalable, robust web and backend applications. My primary expertise lies in leveraging technologies like **Python/Django** to create high-performance backend systems. I have also worked with **Node.js**, **React**, and **JavaScript frameworks**, contributing to both frontend and backend aspects of enterprise-level SaaS applications.
+I am a **Backend Software Engineer** with over **3 years of experience** in building scalable, robust web and backend applications. My primary expertise lies in leveraging technologies like **Python/Django** to create high-performance backend systems. I have also worked with **Node.js**, **React**, and **JavaScript frameworks**, contributing to both frontend and backend aspects of AML/Anti money laundering and enterprise-level SaaS applications.
 
 In addition to developing complex systems, I've contributed to **fraud prevention systems**, **user onboarding solutions**, **identity verification**, and **AML software**, supporting rapidly growing user bases. I thrive in collaborative environments, where I have successfully worked in cross-functional teams to design and implement innovative, user-centered solutions.
 
@@ -78,13 +39,3 @@ I am passionate about **automation**, **AI technologies**, and building seamless
 
 ---
 
-### Enhancements:
-
-- **Professional Summary**: It’s more polished with a clearer picture of your strengths and contributions.
-- **Skills Section**: Added more detailed and relevant technologies.
-- **Link to Resume**: You added a direct link to your resume, which is great. Ensure your resume is up-to-date and accessible.
-- **GitHub Stats**: You have some great stats and insights into your GitHub contributions—use that to showcase your technical expertise.
-
----
-
-This format not only conveys your experience and skills but also helps in making your profile more attractive and accessible to potential employers. Let me know if you'd like further revisions or adjustments!
