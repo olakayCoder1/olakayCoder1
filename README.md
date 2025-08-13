@@ -3,16 +3,20 @@
 
 [![AltSchool Badge](https://img.shields.io/badge/-Engineering-6773E5?style=for-the-badge&logo=data:image/png;base64,...)](https://altschoolafrica.com/schools/engineering) [![LinkedIn Badge](https://img.shields.io/badge/?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/olanrewaju-abdulkabeer)](https://www.linkedin.com/in/olanrewaju-abdulkabeer) [![Twitter Badge](https://img.shields.io/badge/-@olakayCoder1-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/olakayCoder1)](https://twitter.com/olakayCoder1)
 
-I am a **Backend Software Engineer** with over **3 years of experience** in building scalable, robust web and backend applications. My primary expertise lies in leveraging technologies like **Python/Django** to create high-performance backend systems. I have also worked with **Node.js**, **React**, and **JavaScript frameworks**, contributing to both frontend and backend aspects of AML/Anti money laundering and enterprise-level SaaS applications.
+I am a **Fullstack Software Engineer** with over **3 years of experience** building scalable, high-performance web applications and backend systems. My core expertise lies in developing robust services using **Python/Django** and **Node.js**, while also contributing to frontend applications with **React** and modern **JavaScript frameworks**.
 
-In addition to developing complex systems, I've contributed to **fraud prevention systems**, **user onboarding solutions**, **identity verification**, and **AML software**, supporting rapidly growing user bases. I thrive in collaborative environments, where I have successfully worked in cross-functional teams to design and implement innovative, user-centered solutions.
+I have worked across various domains, including **AML (Anti-Money Laundering)**, **fraud prevention**, and **enterprise SaaS**, building end-to-end features that support complex user and data workflows. My experience includes building systems for **user onboarding**, **identity verification**, and **transaction monitoring**, supporting platforms with rapidly growing user bases.
 
-I am passionate about **automation**, **AI technologies**, and building seamless, integrated systems. I’m always eager to learn new skills, stay updated with industry trends, and explore new technologies to build even more impactful solutions.
+I thrive in collaborative, agile teams where I can design and deliver secure, reliable, and user-centric solutions. I'm especially passionate about **automation**, **AI technologies**, and creating seamless integrations between frontend and backend systems. I continuously seek opportunities to learn, adapt, and apply emerging technologies to solve meaningful problems.
 
 **Quick Overview:**
-- 😊 **Pronouns**: He/Him
-- 💼 **Job Interests**: Backend Engineer, Full Stack Developer, Software Engineer
-- 📫 [View my resume](https://olanrewajukabiru.vercel.app/resume) | [View my portfolio](https://olanrewajukabiru.vercel.app/) | Contact me: **programmerolakay@gmail.com**
+
+* **Pronouns**: He/Him
+* **Job Interests**: Fullstack Developer, Backend Engineer, Software Engineer
+* **Tech Stack**: Python, Django, Node.js, NestJS, React, JavaScript, TypeScript, PostgreSQL, Docker, AWS
+* **📫 Contact**: [View my resume](https://olanrewajukabiru.vercel.app/resume) | [View my portfolio](https://olanrewajukabiru.vercel.app/) | **[programmerolakay@gmail.com](mailto:programmerolakay@gmail.com)**
+
+
 
 ### Key Skills:
 <p align="left">
